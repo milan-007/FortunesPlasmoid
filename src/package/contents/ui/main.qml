@@ -28,7 +28,7 @@ Item {
 		property int level: 0
 		property var dirs : [
 			"/usr/share/games/fortunes/",
-			"/~/.local/share/fortunes/"
+			"~/.local/share/fortunes/"
 		]
 
 		//Image {
