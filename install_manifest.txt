@@ -1,0 +1,9 @@
+/usr/lib/x86_64-linux-gnu/qt5/plugins/plasma/applets/plasma_applet_fortunepokus.so
+/usr/share/plasma/plasmoids/org.kde.plasma.fortunepokus/metadata.desktop
+/usr/share/plasma/plasmoids/org.kde.plasma.fortunepokus/contents/images/pairs.svgz
+/usr/share/plasma/plasmoids/org.kde.plasma.fortunepokus/contents/ui/main.qml
+/usr/share/plasma/plasmoids/org.kde.plasma.fortunepokus/metadata.json
+/usr/share/metainfo/org.kde.plasma.fortunepokus.appdata.xml
+/usr/share/kservices5/plasma-applet-org.kde.plasma.fortunepokus.desktop
+/usr/lib/x86_64-linux-gnu/qt5/qml/org/kde/private/fortunepokus/libplasmoidplugin.so
+/usr/lib/x86_64-linux-gnu/qt5/qml/org/kde/private/fortunepokus/qmldir
