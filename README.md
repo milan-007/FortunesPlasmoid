@@ -27,3 +27,5 @@ a v jejich podsložkách daných aktuálním nastavením locales,
 např /usr/share/games/fortunes/cs/ pro české prostředí.
 
 Je to můj první pokus s plasmoidy, takže má jednoduhé rozhraní
+
+!(images/preview1.jpg)
