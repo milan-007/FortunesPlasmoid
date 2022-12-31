@@ -28,4 +28,4 @@ např /usr/share/games/fortunes/cs/ pro české prostředí.
 
 Je to můj první pokus s plasmoidy, takže má jednoduhé rozhraní
 
-!(images/preview1.jpg)
+![](/assets/images/preview1.jpg)
